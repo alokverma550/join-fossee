@@ -12,3 +12,11 @@ and database file in database folder in form of zip file
 	~/admin/people/permissions/roles
 
 3. Create Account for Student and Teacher
+
+4. Create a Content Type for Result Form
+		* Title = Result Form
+		* Comment = Closed
+		* Uncheck "Promoted to front page"
+	Field Setting
+		* Title
+		* Body
