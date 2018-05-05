@@ -31,4 +31,5 @@ and database file in database folder in form of zip file
 8. Install Ctools modules
 
 9. Create a views for Show result only Student and Teacher
+	* Permission change for only selected roles
 
