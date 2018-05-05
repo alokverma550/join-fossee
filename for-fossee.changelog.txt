@@ -24,3 +24,7 @@ and database file in database folder in form of zip file
 5. Install CKEditor module
 
 6. Edit Permission for Teacher Who edit and create Result Form content
+	~/admin/people/permissions
+
+7. Install Views module and its Requires Ctools
+
