@@ -22,3 +22,5 @@ and database file in database folder in form of zip file
 		* Body
 
 5. Install CKEditor module
+
+6. Edit Permission for Teacher Who edit and create Result Form content
