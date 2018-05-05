@@ -28,3 +28,5 @@ and database file in database folder in form of zip file
 
 7. Install Views module and its Requires Ctools
 
+8. Install Ctools modules
+
