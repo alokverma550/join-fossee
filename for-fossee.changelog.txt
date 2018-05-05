@@ -20,3 +20,5 @@ and database file in database folder in form of zip file
 	Field Setting
 		* Title
 		* Body
+
+5. Install CKEditor module
