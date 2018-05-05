@@ -1,0 +1,9 @@
+Installation done with 
+database-type = MySql 
+database-name=marks 
+database-username=marks
+database-password=marks 
+and website details 
+website-username=admin 
+website-password=admin 
+and database file in database folder in form of zip file
