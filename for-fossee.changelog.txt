@@ -33,3 +33,4 @@ and database file in database folder in form of zip file
 9. Create a views for Show result only Student and Teacher
 	* Permission change for only selected roles
 
+10. Now Teacher can create new result and show only for student
