@@ -7,3 +7,6 @@ and website details
 website-username=admin 
 website-password=admin 
 and database file in database folder in form of zip file
+
+2. Create Role student and teacher
+	~/admin/people/permissions/roles
